@@ -1,3 +1,3 @@
 # gnome
 
-These the content of Gnome
+These is the content of Gnome
